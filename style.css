@@ -87,11 +87,41 @@ body{
 
 #main{
     margin-top: 119px;
-    background-color: blanchedalmond;
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+    background-color: antiquewhite;
+
 }
 
 #content{
     padding-top: 1px;
     padding-bottom: 50px;
 }
+
+h2{
+    font-family: fantasy;
+    color: blueviolet;
+}
+
+input{
+    width: 100%;
+    height: 25px;
+    margin: 12px 0;
+    border: 1px solid #929292;
+}
+
+textarea{
+    width: 100%;
+    height: 25px;
+    margin: 12px 0;
+    border: 1px solid#929292;
+}
+.button{
+    display: block;
+    background-color: royalblue;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 16PX;
+    margin: 12PX;
+    padding: 8PX 0;
+    }
