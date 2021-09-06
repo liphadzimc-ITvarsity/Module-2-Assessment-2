@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: Helvetica;
+    background-color: lightsteelblue;
     
 }
 
@@ -27,8 +28,7 @@ body{
     display: block;
     margin: auto;
     height: 70%;
-    padding-top: 15px;
-    
+    padding-top: 15px;   
 }
 
 /*==============TOP-TABS===============*/
@@ -89,7 +89,6 @@ body{
     margin-top: 119px;
     background-repeat: repeat-x;
     background-color: antiquewhite;
-
 }
 
 #content{
@@ -115,13 +114,14 @@ textarea{
     margin: 12px 0;
     border: 1px solid#929292;
 }
+
 .button{
     display: block;
     background-color: royalblue;
     text-decoration: none;
     text-align: center;
     color: white;
-    font-size: 16PX;
-    margin: 12PX;
-    padding: 8PX 0;
+    font-size: 16px;
+    margin: 12px;
+    padding: 8px 0;
     }
